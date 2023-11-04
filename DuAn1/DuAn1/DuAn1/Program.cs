@@ -16,4 +16,4 @@ namespace DuAn1
             Application.Run(new FormHi());
         }
     }
-}
+} tui edit đc nè cậu
